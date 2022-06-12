@@ -1,0 +1,20 @@
+.places__link {
+  max-width: 250px;
+  color: #FFFFFF;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 12px 0 0 0;
+}
+
+@media screen and (max-width: 430px) {
+  .places__link  {
+    padding: 0 0 0 16px;
+  }
+}
+
+.places__link:hover {
+  opacity: 0.8;
+}

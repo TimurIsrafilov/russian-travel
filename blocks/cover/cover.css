@@ -1,0 +1,41 @@
+.cover {
+  max-width: 1280px;
+  width: 100%;
+  padding: 0 48px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1280px) {
+  .cover {
+    max-width: 1280px;
+    padding: 0 calc((100vw - 1184px)/2);
+  }
+}
+
+@media screen and (max-width: 1210px) {
+  .cover {
+    max-width: 1210px;
+    padding: 0 calc((100vw - 1024px)/2);
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .cover {
+    max-width: 984px;
+    padding: 0 calc((100vw - 768px)/2);
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .cover {
+    max-width: 730px;
+    padding: 0 calc((100vw - 500px)/2);
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .cover {
+    max-width: 730px;
+    padding: 0 calc((100vw - 320px)/2);
+  }
+}
