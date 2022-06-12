@@ -26,12 +26,7 @@
 @media screen and (max-width: 730px) {
   .places__paragraph {
     max-width: 288px;
-  }
-}
-
-@media screen and (max-width: 430px) {
-  .places__paragraph {
-    padding: 0 0 0 16px;
+    padding: 0 16px 0 16px;
   }
 }
 
