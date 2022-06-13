@@ -2,15 +2,8 @@
   max-width: 1280px;
   width: 100%;
   box-sizing: border-box;
-  padding: 0 48px;
+  padding: 0 calc((100% - 1184px)/2);
   margin: 0 auto;
-}
-
-@media screen and (max-width: 1280px) {
-  .cover {
-    max-width: 1280px;
-    padding: 0 calc((100vw - 1184px)/2);
-  }
 }
 
 @media screen and (max-width: 1210px) {

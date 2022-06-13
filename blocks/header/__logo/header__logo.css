@@ -2,8 +2,11 @@
   width: 176px;
   height: 52px;
   background-image: url(../../../images/header-logo.svg);
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 730px) {

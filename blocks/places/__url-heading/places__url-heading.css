@@ -9,6 +9,7 @@
   letter-spacing: 2px;
   text-decoration: none;
   box-sizing: border-box;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 430px) {

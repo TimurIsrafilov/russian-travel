@@ -7,7 +7,7 @@
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  margin: 16px 0 0 0;
+  margin: 32px 0 0 0;
   z-index: 2;
 }
 
@@ -16,6 +16,6 @@
     max-width: 270px;
     font-size: 14px;
     line-height: 16px;
-    margin: 0 0 8px 0;
+    margin: 16px 0 0 0;
   }
 }
