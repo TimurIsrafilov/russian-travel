@@ -10,6 +10,7 @@
   text-decoration: none;
   box-sizing: border-box;
   text-transform: uppercase;
+  margin: 0;
 }
 
 @media screen and (max-width: 430px) {
